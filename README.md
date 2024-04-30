@@ -16,7 +16,7 @@
  ---
  
  
-- 🌱 I'm currently learning **PostgreSQL** 
+
 - 📫 How to reach me **fundaalkan112@gmail.com** 
 - ⚡ Languages I can speak: **English, Turkish**
 
