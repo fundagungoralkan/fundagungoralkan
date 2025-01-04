@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Funda</h1> 
-<h3 align="center">A passionate Full Stack Java Developer from England</h3> 
+<h3 align="center">A passionate Full Stack Java Developer from U.K </h3> 
 
 
 <img align="right" alt="Coding" width="360" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjBlYjRlYzRkN2JlNjEzY2EzYjY5NzBiZjZkYmM4OTA5MDVmODExNiZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif">
