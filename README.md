@@ -1,11 +1,5 @@
-[![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://fundagungoralkan.io)
-
-[![](https://visitcount.itsvg.in/api?id=fundagungoralkan&icon=9&color=6)](https://visitcount.itsvg.in)
-
 <h1 align="center">Hi 👋, I'm Funda Gungor Alkan</h1> 
 <h3 align="center">Full Stack Java Developer | 3+ years of experience | Based in U.K 🇬🇧</h3>
-
-<img align="right" alt="Coding" width="360" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjBlYjRlYzRkN2JlNjEzY2EzYjY5NzBiZjZkYmM4OTA5MDVmODExNiZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 ---
 
@@ -18,11 +12,6 @@
 - 🌐 LinkedIn: [linkedin.com/in/funda-gungor-alkan](https://www.linkedin.com/in/funda-gungor-alkan)
 
 ---
-
-## 🌐 Socials
-<p align="left">
-<a href="https://www.linkedin.com/in/funda-gungor-alkan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-</p>
 
 ---
 
@@ -40,11 +29,9 @@ Git | Docker | Agile/Scrum | VS Code | Jira | Miro
 ---
 
 ## 📊 GitHub Stats
-![Funda’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=fundagungoralkan&theme=blueberry&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fundagungoralkan&theme=blueberry)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fundagungoralkan&theme=blueberry&layout=compact)
+- GitHub Stats, Streak, Top Languages available via GitHub-readme-stats (badge veya linklerle eklenebilir)
 
 ---
 
 ## 🏆 GitHub Trophies
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=fundagungoralkan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+- GitHub Trophies can be displayed via github-profile-trophy service
