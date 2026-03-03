@@ -4,7 +4,7 @@
 ---
 
 ## 💫 About Me
-Results-driven Full Stack Developer with deep expertise in designing, developing, and deploying scalable, high-performance web applications.
+Results-driven Full Stack Developer with deep expertise in designing, developing, and deploying scalable, high-performance web applications
 
 ⚙️ **Backend Specialization:** I specialize in the Java ecosystem, creating robust and resilient back-end services using Spring Boot, Hibernate/JPA, and architecting complex systems with Microservices Architecture and RESTful/Reactive APIs.
 
