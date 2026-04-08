@@ -12,7 +12,7 @@ Results-driven Full Stack Developer with deep expertise in designing, developing
 
 🚀 **Impact & Leadership:** My focus is always on tangible impact: I have achieved significant improvements in application performance through load time optimization, code splitting, and advanced caching strategies. Highly experienced in leading development teams, mentoring junior colleagues, and optimizing code (e.g., 40% code duplication reduction) to achieve high reliability (e.g., 99.9% uptime).
 
-🤝 **Practices:** Highly experienced in Agile (Scrum) environments. Committed to Clean Code principles, Test-Driven Development (TDD), and applying technical expertise across the entire stack, from system design to production deployment.
+🤝 **Practices:** Highly experienced in Agile (Scrum) environments. Committed to Clean Code principles, Test-Driven Development , and applying technical expertise across the entire stack, from system design to production deployment.
 
 ---
 
