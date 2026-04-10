@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Funda Gungor Alkan</h1> 
+<h1 align="center">Hi 👋    I'm Funda Gungor Alkan</h1> 
 <h3 align="center">Full Stack Developer | Based in U.K 🇬🇧</h3>
 
 ---
