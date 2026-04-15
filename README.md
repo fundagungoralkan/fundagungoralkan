@@ -37,31 +37,31 @@ Git | Docker | Agile/Scrum | VS Code | Jira | Miro
 
 ### ⚙️ Backend
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java" height="40"/> Java
-<img src="https://skillicons.dev/icons?i=spring" height="40"/> Spring Boot
-<img src="https://skillicons.dev/icons?i=hibernate" height="40"/> Hibernate
-<img src="https://skillicons.dev/icons?i=mongodb" height="40"/> MongoDB
-<img src="https://skillicons.dev/icons?i=postgres" height="40"/> PostgreSQL
+<img src="https://skillicons.dev/icons?i=java" height="40"/> 
+<img src="https://skillicons.dev/icons?i=spring" height="40"/> 
+<img src="https://skillicons.dev/icons?i=hibernate" height="40"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="40"/> 
+<img src="https://skillicons.dev/icons?i=postgres" height="40"/> 
 </p>
 
 ### 🎨 Frontend
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react" height="40"/> React
-<img src="https://skillicons.dev/icons?i=nextjs" height="40"/> Next.js
-<img src="https://skillicons.dev/icons?i=js" height="40"/> JavaScript
-<img src="https://skillicons.dev/icons?i=ts" height="40"/> TypeScript
-<img src="https://skillicons.dev/icons?i=html" height="40"/> HTML5
-<img src="https://skillicons.dev/icons?i=css" height="40"/> CSS3
-<img src="https://skillicons.dev/icons?i=sass" height="40"/> Sass
-<img src="https://skillicons.dev/icons?i=bootstrap" height="40"/> Bootstrap
-<img src="https://skillicons.dev/icons?i=tailwind" height="40"/> Tailwind
+<img src="https://skillicons.dev/icons?i=react" height="40"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="40"/> 
+<img src="https://skillicons.dev/icons?i=js" height="40"/> 
+<img src="https://skillicons.dev/icons?i=ts" height="40"/> 
+<img src="https://skillicons.dev/icons?i=html" height="40"/> 
+<img src="https://skillicons.dev/icons?i=css" height="40"/> 
+<img src="https://skillicons.dev/icons?i=sass" height="40"/> 
+<img src="https://skillicons.dev/icons?i=bootstrap" height="40"/> 
+<img src="https://skillicons.dev/icons?i=tailwind" height="40"/> 
 </p>
 
 ### 🚀 Tools & DevOps
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git" height="40"/> Git
-<img src="https://skillicons.dev/icons?i=docker" height="40"/> Docker
-<img src="https://skillicons.dev/icons?i=jira" height="40"/> Jira
+<img src="https://skillicons.dev/icons?i=git" height="40"/> 
+<img src="https://skillicons.dev/icons?i=docker" height="40"/> 
+<img src="https://skillicons.dev/icons?i=jira" height="40"/> 
 </p>
 
 ---
